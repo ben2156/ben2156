@@ -1,0 +1,12 @@
+Title: Practice
+format: docx
+---
+```{r}
+print("Hello")
+```
+
+or
+
+```{r}
+getwd()
+```
